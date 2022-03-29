@@ -1,0 +1,115 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "others": {
+    "vote": []
+  },
+  "users": {
+    "6281346127765@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "60147366955@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "62895618784479@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6285893216196@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "62895640990401@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6285882067904@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6281225848215@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6285781210484@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6283142230187@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6283877255246@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    }
+  },
+  "chats": {
+    "6281346127765@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antiyt": false,
+      "antitiktok": false,
+      "antidelete": false
+    },
+    "6285248209213-1612939869@g.us": {
+      "mute": false,
+      "antilink": false,
+      "antiyt": false,
+      "antitiktok": false,
+      "antidelete": false
+    },
+    "6281276698054-1625136613@g.us": {
+      "mute": false,
+      "antilink": false,
+      "antiyt": false,
+      "antitiktok": false,
+      "antidelete": false
+    },
+    "6281276698054@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antiyt": false,
+      "antitiktok": false,
+      "antidelete": false
+    },
+    "6281256023873@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antiyt": false,
+      "antitiktok": false,
+      "antidelete": false
+    },
+    "120363038686139951@g.us": {
+      "mute": false,
+      "antilink": false,
+      "antiyt": false,
+      "antitiktok": false,
+      "antidelete": false
+    }
+  }
+}
